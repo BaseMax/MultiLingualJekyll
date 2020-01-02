@@ -1,22 +1,25 @@
 ---
 layout: post
-title: We want to add Persian Language to OpenSourceFriday website
+title: ما می خواهیم زبان فارسی را به وب سایت OpenSourceFriday اضافه کنیم
 date: 2020-01-01
+lang: fa
 ---
 
-Hello,
+### OpenSourceFriday
 
-Happy new year with good news from me, We are adding Persian language in website. smiley  heart
+با سلام,
 
-You can read about Persian (Farsi) Language at [here](https://en.wikipedia.org/wiki/Persian_language).
+سال 2020 مبارک با خبری خوب از من, ما در حال اضافه کردن زبان فارسی به وب سایت هستیم.
 
-Best,
+شما می توانید در مورد زبان فارسی در [اینجا](https://en.wikipedia.org/wiki/Persian_language) بخوانید.
 
-Max Base
+با تشکر
 
-Open Source Maintainer on GitHub
+مکس بیس
 
-### Reference
+نگهدارنده منبع آزاد گیت هاب
+
+### منابع
 
 [#571](https://github.com/github/opensourcefriday/pull/571)
 [#572](https://github.com/github/opensourcefriday/pull/572)

@@ -1,35 +1,34 @@
 ---
 layout: post
-title: Open Source Friday - Persian Language
+title: جمعه منبع آزاد - زبان فارسی
 date: 2020-01-02
 lang: fa
 ---
 
-Hello,
+با سلام.
 
-After days of effort in cooperation with GitHub, we successfully added Persian language in opensourcefriday.com Website.
+خوشبختانه بعد از چند روز توانستیم زبان فارسی را نیز در وب سایت <a href="http://opensourcefriday.com">opensourcefriday.com</a> با هماهنگی شرکت گیت هاب انجام دهیم.
+امیدواریم کمپین جمعه های منبع آزاد برای شما نیز مفید باشد.
 
-## Open Source Friday
+## جمعه منبع آزاد
 
-Open source is made by people just like you. This Friday, invest a few hours contributing to the software you use and love.
+منبع آزاد توسط افرادی درست مثل شما ساخته می شود. این جمعه، چند ساعت برای کمک به نرم افزاری که استفاده می کنید و دوست دارید وقت بزارید.
 
-This Friday, invest a few hours contributing to the software you use and love.
+این جمعه، چند ساعت برای کمک به نرم افزاری که استفاده می کنید و دوست دارید سرمایه گذاری کنید و آنرا توسعه دهید.
 
-We hope the open source Friday campaign to be useful for everyone.
+از حمایت **Mike McQuaid** و **Nat Friedman** بابت پذیرش این موضوع تشکر می کنم.
 
-Thanks to **Mike McQuaid** and **Nat Friedman** for supporting us.
+با تشکر
 
-Best,
+مکس بیس
 
-Max Base
-
-Open Source Maintainer on GitHub
+نگهدارنده منبع آزاد گیت هاب
 
 ---------
 
-You can see this at [here](https://opensourcefriday.com/?locale=fa).
+شما می توانید وب سایت فارسی را در [اینجا](https://opensourcefriday.com/?locale=fa) مشاهده کنید.
 
-### Locale Files
+### فایل های زبان
 
 - [fa.yml](https://github.com/github/opensourcefriday/blob/master/config/locales/fa.yml)
 - [devise.fa.yml](https://github.com/github/opensourcefriday/blob/master/config/locales/devise.fa.yml)
