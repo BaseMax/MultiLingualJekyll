@@ -1,2 +1,3 @@
-# WebSite
-Repository of my website and blog.
+# Web Site
+
+A sample multi-language blog using **Jeykyll** and **GitHub Pages**.
