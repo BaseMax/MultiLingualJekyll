@@ -3,10 +3,18 @@ layout: post
 title: Open Source Friday - Persian Language
 date: 2020-01-02
 ---
-{{ page.title }}
-================
 
-<p class="meta">{{ page.date }}</p>
+Hello,
+
+Happy new year with good news from me, We are adding Persian language in website. smiley  heart
+
+You can read about Persian (Farsi) Language at [here](https://en.wikipedia.org/wiki/Persian_language).
+
+Best,
+Max Base
+Open Source Maintainer on GitHub
+
+----------
 
 Hello,
 
