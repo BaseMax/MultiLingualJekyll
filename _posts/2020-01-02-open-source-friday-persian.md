@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Source Friday - Persian Language
-date: 10 Nov 2016
+date: 2020-01-02
 ---
 {{ page.title }}
 ================
