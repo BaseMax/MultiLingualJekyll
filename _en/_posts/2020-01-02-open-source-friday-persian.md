@@ -2,6 +2,7 @@
 layout: post
 title: Open Source Friday - Persian Language
 date: 2020-01-02
+lang: en
 ---
 
 Hello,
