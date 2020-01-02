@@ -8,7 +8,7 @@ title: Max Base
 	{% for post in site.posts %}
 	<li>
 		<span>{{ post.date | date_to_string }}</span> &raquo;
-		<a href="https://maxfork.github.io/BlogTest{{ post.url }}">{{ post.title }}</a>
+		<a href="{{ post.url }}">{{ post.title }}</a>
 	</li>
 	{% endfor %}
 	</ul>
