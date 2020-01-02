@@ -5,11 +5,21 @@ title: Max Base
 <div id="home">
 	<h1>Blog Posts</h1>
 	<ul class="posts">
-	{% for post in site.posts %}
-	<li>
-		<span>{{ post.date | date_to_string }}</span> &raquo;
-		<a href="{{ post.url }}">{{ post.title }}</a>
-	</li>
-	{% endfor %}
+		{% for post in site.posts %}
+		<li>
+			<span>{{ post.date | date_to_string }}</span> &raquo;
+			<a href="{{ post.url }}">{{ post.title }}</a>
+		</li>
+		{% endfor %}
+	</ul>
+	<em>Read this page in a different language:</em>
+	<ul>
+		{% for post in posts %}
+		<li>
+			<a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }} title="View in {{post.lang}}">
+				{{ post.lang }}
+			</a>
+		</li>
+		{% endfor %}
 	</ul>
 </div>
