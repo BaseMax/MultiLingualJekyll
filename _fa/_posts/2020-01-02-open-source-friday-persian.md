@@ -3,6 +3,9 @@ layout: post
 title: جمعه منبع آزاد - زبان فارسی
 date: 2020-01-02
 lang: fa
+lang-ref: "Open Source Friday - Persian Language"
+author: Max
+categories: github
 ---
 
 با سلام.

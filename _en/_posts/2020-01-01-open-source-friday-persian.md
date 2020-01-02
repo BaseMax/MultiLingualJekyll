@@ -2,6 +2,10 @@
 layout: post
 title: We want to add Persian Language to OpenSourceFriday website
 date: 2020-01-01
+lang: en
+lang-ref: "We want to add Persian Language to OpenSourceFriday website"
+author: Max
+categories: github
 ---
 
 Hello,
