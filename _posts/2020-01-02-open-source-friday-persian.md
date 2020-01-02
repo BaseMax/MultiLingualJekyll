@@ -24,8 +24,11 @@ Max Base
 
 Open Source Maintainer on GitHub
 
+You can see this at [here](https://opensourcefriday.com/?locale=fa).
+
 ---------
 
+<p class="rtl">
 با سلام.
 
 خوشبختانه بعد از چند ماه توانستیم زبان فارسی را نیز در وب سایت opensourcefriday.com با هماهنگی شرکت گیت هاب انجام دهیم.
@@ -43,6 +46,7 @@ Open Source Maintainer on GitHub
 مکس بیس
 
 نگهدارنده منبع آزاد گیت هاب
+</p>
 
 ### Locale Files
 
